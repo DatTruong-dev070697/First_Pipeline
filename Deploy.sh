@@ -1,1 +1,1 @@
-
+echo "Running Deploy.sh"
